@@ -1,7 +1,7 @@
 # latihan-git
 
 
- | First Header  | Second Header |
- | ------------- | ------------- |
- | Content Cell  | Content Cell  |
- | Content Cell  | Content Cell  |
+| Header  | Another header |
+|---------|----------------|
+| field 1 | something      |
+| field 2 | something else |
