@@ -1,11 +1,13 @@
-# latihan-git
+# rest-api
 
+  # My Rest API App
 
-# My First App
+  ### Demo app with basic REST API.
 
-## Example
+  ## REST API
 
-| Header| Another header |
-|---------|----------------|
-| field 1 | something      |
-| field 2 | something else |
+  ### List of basic routes:
+
+ |           Route        | HTTP|      Description     |
+ |------------------------|-----|----------------------|
+ | /api/hello?name={name} | GET | Print hello, {name} !|
