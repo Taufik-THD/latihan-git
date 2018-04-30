@@ -39,4 +39,4 @@ npm run dev
 ```
 
 Access the website via ```javascript http://localhost:3000 ``` or API via <br/>
-```javascript http://localhost:3000/api ```
+``` http://localhost:3000/api. ```
