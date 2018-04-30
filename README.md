@@ -1,7 +1,6 @@
+
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+npm install
+npm start
+npm run dev
 ```
